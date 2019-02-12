@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\WCF Assignments\21_230542_Syed\MyTask1ServiceLib\MyTask1ServiceHost\bin\Debug\MyTask1ServiceHost.exe.config
+C:\Users\Admin\Desktop\WCF Assignments\21_230542_Syed\MyTask1ServiceLib\MyTask1ServiceHost\bin\Debug\MyTask1ServiceHost.exe
+C:\Users\Admin\Desktop\WCF Assignments\21_230542_Syed\MyTask1ServiceLib\MyTask1ServiceHost\bin\Debug\MyTask1ServiceHost.pdb
+C:\Users\Admin\Desktop\WCF Assignments\21_230542_Syed\MyTask1ServiceLib\MyTask1ServiceHost\bin\Debug\MyTask1ServiceLib.dll
+C:\Users\Admin\Desktop\WCF Assignments\21_230542_Syed\MyTask1ServiceLib\MyTask1ServiceHost\bin\Debug\MyTask1ServiceLib.pdb
+C:\Users\Admin\Desktop\WCF Assignments\21_230542_Syed\MyTask1ServiceLib\MyTask1ServiceHost\obj\Debug\MyTask1ServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\WCF Assignments\21_230542_Syed\MyTask1ServiceLib\MyTask1ServiceHost\obj\Debug\MyTask1ServiceHost.exe
+C:\Users\Admin\Desktop\WCF Assignments\21_230542_Syed\MyTask1ServiceLib\MyTask1ServiceHost\obj\Debug\MyTask1ServiceHost.pdb
